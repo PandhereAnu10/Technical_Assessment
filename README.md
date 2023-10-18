@@ -80,7 +80,7 @@ Let's take some small example to learn it fastly:<br><br>
   <br>
 
 ```
- ✅ Note: Don't Confuse between <tr> tag as we're using it to specify thead & td also. We're using only tr to store data row wise and with wach entry.
+ ✅ Note: Don't Confuse between <tr> tag as we're using it to specify thead & td also. We're using only tr to store data row wise and with each entry.
 ```
 
 <br>
